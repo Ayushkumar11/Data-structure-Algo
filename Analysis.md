@@ -3,7 +3,7 @@ Unscramble Computer Science Problems
 
 Task0
 Time Complexity: O(1)
-Description: Input does not affect run time
+Description: Input does not affects run time
 
 Task 1:
 The run-time is O(n x m) where n is the length of the input csv and m is the length of the unique_telephone_list. 
